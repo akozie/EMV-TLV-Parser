@@ -1,6 +1,6 @@
 # EMV TLV Parser
 
-This app parses raw hex input and displays the decoded tags, lengths, values, and human-readable interpretations in a clean structured UI.
+This app parses raw hex input and displays the decoded tags, lengths, values, and readable interpretations in a clean structured UI.
 ---
 
 ## 🚀 Features
