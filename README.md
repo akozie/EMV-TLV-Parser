@@ -23,9 +23,9 @@ This app parses raw hex input and displays the decoded tags, lengths, values, an
 
 Includes tests for:
 
-✔ Correct parsing
-✔ Truncated or invalid TLV
-✔ Unknown tags
+- Correct parsing
+- Truncated or invalid TLV
+- Unknown tags
 
 ---
 
